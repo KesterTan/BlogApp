@@ -1,0 +1,253 @@
+cd
+pwd
+cd desktop
+cd ..
+cd python
+python
+cd..
+cd ..
+python
+python
+mkdir mystuff
+cd mystuff
+ls
+touch test.txt
+rm test.txt
+cd ..
+rmdir mystuff
+cd desktop
+mkdir mystuff
+cd mystuff
+touch test.txt
+rm test.txt
+ls
+cd ..
+cd ..
+pwd
+python ex1.py
+cd desktop
+python ex1.py
+python ex1.py
+python ex1.py
+python ex1.py
+python
+python ex1.py
+python ex1.py
+python ex1.py
+pwd
+ls
+/var/folders/yw/pfm8vxr149v0kf45xt4bbt1h0000gn/T/com.barebones.bbedit/com.barebones.bbedit-602793231.124-python3.sh ; exit;
+desktop
+cd desktop
+ls
+cd downloads
+cd ..
+ls
+cd ..
+python ex1.py
+cd desktop
+cd desktop
+cd 
+cd desktop
+rm ex1.py
+touch ex1.py
+python ex1.py
+python ex1.py
+python ex1.py
+python ex1.py
+python ex1.py
+python ex1.py
+touch ex2.py
+python ex2.py
+python ex2.py
+python ex2.py
+python ex2.py
+python ex2.py
+python ex2.py
+python ex2.py
+python ex1.py
+python ex1.py
+touch ex3.py
+python ex3.py
+python ex3.py
+python ex3.py
+python ex3.py
+python ex3.py
+python ex3.py
+python ex3.py
+python ex3.py
+python ex3.py
+python ex3.py
+python ex3.py
+python ex3.py
+touch ex4.py
+python ex4.py
+python ex4.py
+python ex4.py
+python ex4.py
+touch ex5.py
+q
+python ex5.py
+cd desktop
+python ex5.py
+cd desktop
+touch ex11.py
+python ex11.py
+python ex11.py
+python ex11.py
+python ex11.py
+python ex11.py
+python ex11.py
+cd desktop
+touch ex12.py
+python ex12.py
+python ex12.py
+python ex12.py
+python ex12.py
+python ex12.py
+python ex12.py
+python ex12.py
+python ex12.py
+python ex12.py
+python ex12.py
+python ex12.py
+python ex12.py
+pydoc raw_input
+pydoc raw_input
+pydoc open
+pydoc sys
+touch ex13.py
+python ex13.py
+python ex13.py first 2nd 3rd
+python ex13.py apple orange grapes
+python ex13.py apple orange grapes banana kiwi
+python ex13.py apple orange banana
+python ex13.py apple orange banana kiwi
+python ex13.py apple orange grapes banana kiwi 
+python ex13.py orange grapes banana kiwi apple
+touch ex14.py
+python ex14.py kester
+python ex14.py kester
+python ex14.py kester
+touch ex15_sample.txt
+touch ex15.py
+pydoc open
+python ex15.py ex15_sample.txt
+python ex15.py ex15_sample.txt
+python ex15.py ex15_sample.txt
+python ex15.py ex15_sample.txt
+python ex15.py ex15_sample.txt
+python ex15.py ex15_sample.txt
+ex15_sample.txt
+cd
+cd desktop
+python ex15.py
+python ex15.py
+python ex15_sample.txt
+python ex15_sample.txt
+python ex15.py
+python ex15_sample.txt
+python ex15.py ex15_sample.txt
+pydoc file
+python ex15.py ex15_sample.txt
+python ex15.py ex15_sample.txt
+pydoc file
+python ex15.py ex15_sample.txt
+pydoc file
+python ex15.py ex15_sample.txt
+pydoc file
+pydoc file
+python ex15.py ex15_sample.txt
+pydoc file
+python ex15.py ex15_sample.txt
+python ex15.py ex15_sample.txt
+pydoc file
+touch ex16.py
+python ex16.py
+touch test.txt
+python ex16.py test.txt
+python ex15.py test.txt
+python ex16.py test.txt
+python ex26.py test.txt
+python ex16.py test.txt
+python ex16.py test.txt
+python ex16.py test.txt
+python ex16.py test.txt
+python ex16.py test.txt
+python ex16.py test.txt
+python ex16.py test.txt
+python ex16.py test.txt
+python ex16.py test.txt
+python ex16.py test.txt
+python ex16.py test.txt
+python ex16.py test.txt
+python ex16.py test.txt
+python ex16.py test.txt
+python ex16.py
+python ex16.py test.txt
+touch ex17.py
+python ex17.py
+cat test.txt
+touch test.txt
+cat test.txt
+cat test.txrt
+cat test.txt
+python ex16.py test.txt
+python ex17.py test.txt
+touch new_file.txt
+python ex17.py test.txt new_file.txt
+rm test.txt
+rm.rf test.txt
+rm -rf test.txt
+touch test.txt
+cat test.txt
+touch exk.py
+python exk.py test.txt
+cat test.txt
+python ex17.py test.txt new_file.txt
+python ex17.py test.txt new_file.txt
+cat new_file.txt
+python exk.py new_file.txt
+python ex17.py new_file.txt test.txt
+cat test.txt
+python exk.py test.txt
+python ex17.py test.txt new_file.txt
+python ex17.py test.txt new_file.txt
+python ex17.py test.txt new_file.txt
+python ex17.py test.txt new_file.txt
+cat new_file.txt
+python exk.py new_file.txt
+python ex17.py new_file.txt test.txt
+python ex17.py new_file.txt test.txt
+cat test.txt
+touch ex18.py
+python ex18.py
+python ex18.py
+python ex18.py
+python ex18.py
+python ex18.py
+cd
+cd desktop
+cd desktop
+cd nus scholarships
+mkdir nus scholarships
+/Applications/Python\ 3.8/Install\ Certificates.command ; exit;
+/Library/Frameworks/Python.framework/Versions/3.8/bin/pip3 ; exit;
+python -m install pyperclip
+/Library/Frameworks/Python.framework/Versions/3.8/bin/pip3 ; exit;
+python pw.py email
+python pw.py email
+chmod +x pythonScript.py
+cd desktop
+python pw.py email
+chmod +x pw.py
+chmod +x pythonScript.py
+exit() chmod +x pythonScript.py
+chmod +x pw.py
+chmod +x pw.py
+cd
+sudo pip3 install pathLib
+sudo pip3 install pathLib
+sudo pip3 install requests
+pip install --upgrade pip
+netstat

@@ -1,0 +1,34 @@
+ls
+cd kester
+git add .
+git status
+git commit
+git pull --verbose
+git merge --abor
+git merge --abort
+git reset --merge'
+git reset --merge
+git status
+git pull --verbose
+git status
+git rm index.htmk
+git rm index.html
+git merge --abort
+git status
+git pull
+git rm <work.html>
+git status
+git commit -m "fixed"
+git add work.html
+git status
+git commit
+git status
+git commit -m "fixed"
+git status
+git push
+git status
+git add .
+git status
+git commit -m "second revision"
+git status
+git push

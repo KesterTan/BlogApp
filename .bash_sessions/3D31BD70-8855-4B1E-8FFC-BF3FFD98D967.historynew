@@ -1,0 +1,7 @@
+cwd
+pwd
+cd desktop
+touch hello.txt
+touch sonnetFile.txt
+touch 1.txt
+touch test.txt

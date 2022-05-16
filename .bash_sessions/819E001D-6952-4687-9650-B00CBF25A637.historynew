@@ -1,0 +1,84 @@
+git clone https://github.com/KesterTan/coursera-test/tree/gh-pages
+ls
+git clone https://github.com/KesterTan/coursera-test.git
+ls
+cd coursera-test
+ls
+git status
+git checkout gh-pages
+git status
+ls
+mkdir site
+cd site
+ls
+ls
+git status
+cd ..
+git status
+git add .
+git status
+git commit
+git commit -m "My first page."
+git push
+git push
+git push
+git push
+git push
+git push
+cd..
+cd ..
+ls
+cd coursera-test
+ls
+cd site
+cd ..
+cd site
+ls
+cd ..
+cd site
+git status
+git push 
+git push
+git status
+git add
+git add .
+git status
+git commit -m "small edit to content"
+git push
+cd
+ls
+cd coursera-test
+ls
+cd site
+browser-sync start --server --directory --files "*"
+cd ..
+cd ..
+ls
+git clone https://github.com/KesterTan/Telegram-bots.git
+ls
+cd Telegram-bots
+ls
+ls
+git add -m "First commit"
+git add
+git add  -a
+ls
+git add .
+git status
+git commit -m "first commit"
+git status
+git push 
+git status
+cd ..
+ls
+mkdir PersonalWebsite
+ls
+cd PersonalWebsite
+ls
+ls
+mkdir CSS
+ls
+mkdir JS
+mkdir images
+ls
+ls

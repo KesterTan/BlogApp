@@ -1,0 +1,58 @@
+cd PersonalWebsite
+ls
+browser-sync start --server --directory --files "*/**"
+browser-sync start --server --directory --files "*/**"
+browser-sync start --server --directory --files "*/**"
+cd ..
+cd kester
+ls
+git pull
+git status
+git add .
+git status
+git commit -m "added photos html"
+git status
+git push
+cd ..
+cd PersonalWebsite
+browser-sync start --server --directory --files "*/**"
+browser-sync start --server --directory --files "*/**"
+cd ..
+cd kester
+git pull
+git merge
+git add .
+git status
+git commit -m "next button for photos"
+git commit
+git push
+cd ..
+cd PersonalWebsite
+browser-sync start --server --directory --files "*/**"
+cd kester
+cd ..
+cd kester
+git add .
+git commit -m "prev edit"
+git push
+cd  ..
+cd Personal Website
+browser-sync start --server --directory --files "*/**"
+cd PersonalWebsite
+ls
+browser-sync start --server --directory --files "*/**"
+cd ..
+ls
+cd mystuff
+cd Desktop
+ls
+cd myStuff
+ls
+cd ..
+cd mystuff
+cd .
+cd ..
+cd ..
+ls
+mkdir discord
+ls discord

@@ -1,0 +1,17 @@
+import requests
+python
+python3
+mkdir scrap
+cd scrap
+touch scrape.py
+code .
+cd ~
+ls
+cd test_site
+ls
+mkdir scrapeProj
+cd scrapeProj
+touch scrape.js
+code .
+ls
+code

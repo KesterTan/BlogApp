@@ -1,0 +1,11 @@
+java -version
+node -v
+/Users/kester/Desktop/Telegram\ Bot/node 
+/Users/kester/Desktop/Telegram\ Bot/node
+cd /Users/kester/Desktop/Telegram\ Bot/node 
+npm init -y
+npm i telegraf
+cd /Users/kester/Desktop/MyFirstBot 
+npm init -y
+npm i telegraf@3.32
+/Users/kester/Desktop/Telegram\ Bot 

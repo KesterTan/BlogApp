@@ -1,0 +1,502 @@
+node index.js
+node index.js
+node index.js
+node index.js
+clear
+cd ~
+ls
+cd test_site
+mkdir my-express-server
+cd my-express-server
+touch server.js
+ls
+npm init
+clear
+visual studio code .
+Visual Studio Code .
+vscode ,
+vscode .
+code .
+code .
+npm install express
+code .
+browser-sync start --server --directory --files "*"/"**/*"
+ls
+node server.js
+npm install -g nodemon
+nodemon server.js
+nodemon --version
+cd ~
+npm install -g nodemon
+npm install -g nodemon
+sudo npm install -g nodemon
+cd test_site
+ls
+cd node-intro
+ls
+cd ..
+cd my-express-server
+nodemon server.js
+clear
+cd ..
+ls
+mkdir Calculator
+cd Calculator
+touch calculator.js
+npm init
+ls
+code .
+npm install express
+nodemon calculator.js
+npm install body-parser
+cd ..
+cd Calculator
+ls
+touch bmiCalculator.html
+ls
+nodemon calculator.js
+nodemon calculator.js
+nodemon calculator.js
+nodemon calculator.js
+git clone https://github.com/KesterTan/Calculator.git
+ls
+cd Calculator
+ls
+ls
+git add .
+git status
+git commit -m "initial commit"
+git push
+git status
+cd ~
+cd Users
+cd kester
+ls
+cd ..
+ls
+cd finance
+ls
+code .
+python application.py
+cd ..
+cd test-site
+cd test_site
+ls
+mkdir weatherProject
+cd weatherProject
+ls
+touch index.html
+touch app.js
+ls
+npm init 
+ls
+npm install express
+ls
+code .
+nodemon app.js
+nodemon app.js
+nodemon app.js
+nodemon app.js
+npm i body-parser
+nodemon app.js
+cd ..
+ls
+mkrdir Newsletter-Singup
+mkdir Newsletter-Signup
+ls
+ls Newsletter-Signup
+cd  Newsletter-Signup
+ls
+touch app.js
+touch signup.html
+touch success.html
+touch failure.html
+ls
+npm init
+npm i body-parser express request
+code .
+nodemon app.js
+npm i mailchimp
+nodemon app.js
+npm install @mailchimp/mailchimp_marketing
+npm install @mailchimp/mailchimp_marketing
+nodemon app.js
+heroku login
+heroku --version
+node --version
+npm --version
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+homebrew --version
+brew --version
+brew install git
+git --version
+touch Procfile
+ls
+clear
+git init
+git add .
+git commit -m "first commit"
+git status
+heroku create
+git push heroku master
+cd ~
+git log
+git init
+git log
+git logs
+clear
+ls
+cd test_site
+ls
+cd node-intro
+touch .gitignore
+ls -a
+open .gitignore
+clear
+git init
+git branch test
+git branch
+git branch -b test
+git checkout -b test
+git -b
+git branch
+git status
+git checkout -b test2
+git branch
+git checkout test
+git checkout -b test
+git branch
+git -
+git -p
+cd test_site
+cd my-express-server
+git branch
+git init
+git branch -a
+git checkout -b test1
+git branch 
+git checkout test
+cd test_site
+ls
+cd my-express-server
+ls
+ls -a
+git init
+git checkout -b test
+git branch
+git -p
+git branch | sed -n '/\* /s///p'
+git rev-parse --abbrev-ref HEAD
+git branch -a
+touch chapter1.txt
+open chapter1.txt
+git add .
+git status
+git rm --cached -r .
+git status
+cd ..
+mkdir test_git
+cd test_git
+ls
+git init
+touch chapter1.txt
+open chapter1.txt
+git add .
+git status
+git commit -m "initial commit"
+git branch
+git checkout -b test
+git add .
+git status
+ls
+open chapter1.txt
+git add .
+git status
+git commit -m "second commit"
+git branch
+git checkout master
+git branch
+git log
+git branch
+git merge test
+git status
+git log
+cd ~
+cd test_site
+ls
+mkdir toDoListv1
+cd toDoListv1
+ls
+touch app.js
+touch index.js
+npm init
+npm i body-parser express
+body-parser --version
+code .
+npm install ejs
+nodemon app.js
+cd~
+cd ~
+ls
+mkdir Discord
+mkdir discordbot
+cd discordbot
+touch main.py
+code .
+python -m pip install --user --upgrade git+https://github.com/Merubokkusu/Discor...
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python3 get-pip.py
+pip --version
+python -m pip install --user --upgrade git+https://github.com/Merubokkusu/Discor...
+python -m pip install --user --upgrade git+https://github.com/Merubokkusu/Discord-S.C.U.M#egg=discum
+python3 -m ensurepip --upgrade
+python -m pip install --user --upgrade git+https://github.com/Merubokkusu/Discord-S.C.U.M#egg=discum
+python3 -m ensurepip
+python -m pip install --user --upgrade git+https://github.com/Merubokkusu/Discord-S.C.U.M#egg=discum
+python2.7 -m ensurepip --default-pip
+sudo python -m ensurepip --default-pip
+python -m pip install --user --upgrade git+https://github.com/Merubokkusu/Discord-S.C.U.M#egg=discum
+pip install --upgrade pip
+python main.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/discordbot/main.py
+python -m pip install --user --upgrade git+https://github.com/Merubokkusu/Discord-S.C.U.M#egg=discum
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/discordbot/main.py
+pip --version
+python -m pip install --user --upgrade git+https://github.com/Merubokkusu/Discord-S.C.U.M.git#egg=discum
+pip3 --version
+python -m pip install --user --upgrade git+https://github.com/Merubokkusu/Discord-S.C.U.M.git#egg=discum
+pip install git+https://github.com/Merubokkusu/Discord-S.C.U.M#egg=discum
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/discordbot/main.py
+pip install --user --upgrade git+https://github.com/Merubokkusu/Discord-S.C.U.M.git#egg=discum
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/discordbot/main.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/discordbot/main.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/discordbot/main.py
+python3 -m ensurepip --upgrade
+python -m pip install --user --upgrade git+https://github.com/Merubokkusu/Discord-S.C.U.M#egg=discum
+pip install git+https://github.com/Merubokkusu/Discord-S.C.U.M.git
+brew install mongodb-community@5.0
+brew install mongocli
+ls
+cd test_site
+ls
+cd toDoListv1
+ls
+nodemon app.js
+nodemon app.js
+nodemon app.js
+git init
+git add .
+git status
+git commit -m "first commit"
+git status
+git remote add origin https://github.com/KesterTan/To-Do-List.git
+git status
+git push -u origin master
+git status
+cd ~
+ls
+mkdir blogApp
+cd blogApp
+open
+clear
+code /
+code .
+npm i
+npm install
+nodemon app.js
+nodemon app.js
+nodemon app.js
+npm i -g npm
+sudo npm i -g npm
+npm i --save lodash
+nodemon app.js
+npm install -g n_
+sudo npm install -g n_
+nodemon app.js
+n
+n _.lowerCase('--Foo-Bar--')
+node
+n_
+nodemon app.js
+cd ~
+xcode-select --install
+brew tap mongodb/brew
+brew install mongodb-community@5.0
+brew install mongocli
+brew --prefix
+brew services start mongodb-community@5.0
+brew services stop mongodb-community@5.0
+brew install mongodb-community@5.0
+brew install mongodb-community@5.0
+brew install mongocli
+brew services start mongodb-community@5.0
+brew services list
+brew --prefix
+$ brew install mongodb-community
+$ brew install mongodb-community
+$ brew tap mongodb/brew
+clear
+$ brew tap mongodb/brew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+rm -fr $(brew --repo homebrew/core)  # because you can't `brew untap homebrew/core`
+brew tap homebrew/core
+brew tap mongodb/brew
+brew install mongodb-community@5.0
+brew services start mongodb-community@5.0
+brew services list
+mongosh
+mongotop
+mongo --version
+mongo
+ls
+cd Telegram-bots
+ls
+cd Telegram Bot
+cd Telegram Bot
+ls
+ls
+cd ..
+cd Telegram Bot
+cd Telegram-bots
+ls
+cd TelegramBot
+ls
+cd CryptoBot
+ls
+nodemon bot.js
+cd ..
+ls
+cd SearchBot
+nodemon app.js
+cd ..
+cd CryptoBot
+nodemon app.js
+ls
+nodemon bot.js
+cd ..
+cd SearchBot
+ls
+nodemon index.js
+nodemon config.js
+cd ..
+cd CryptoBot
+ls
+nodemon bot.js
+cd ~
+wget -O ~/vsls-reqs https://aka.ms/vsls-linux-prereq-script && chmod +x ~/vsls-reqs && ~/vsls-reqswget -O ~/vsls-reqs https://aka.ms/vsls-linux-prereq-script && chmod +x ~/vsls-reqs && ~/vsls-reqs
+cd /backend
+./iNTUition-v8.0-Didibunnies-Project/frontend
+cd ./iNTUition-v8.0-Didibunnies-Project/frontend
+cd test-site
+ls 
+cd test_site
+ls
+cd ~
+ls
+cd blogApp
+ls
+code .
+code .
+code.
+open 
+code
+code .
+nodemon app.js
+code .
+code .
+nodemon app.js
+cd ..
+ls
+cd test_site
+ls
+mkdir test-ntu
+ls test-ntu
+git clone https://github.com/JordanKBC/iNNTUition-NTU-DidiBunnies-2.0-.git
+ls
+cd iNNTUition-NTU-DidiBunnies-2.0-
+ls
+code .
+code .
+nodemon app.js
+npm i express
+npm i
+nodemon app.js
+cd ..
+cd ..
+cd blogApp
+code .
+cd ..
+cd test-site
+ls
+cd test_site
+ls
+cd iNNTUition-NTU-DidiBunnies-2.0- 
+nodemon app.js
+nodemon app.js
+nodemon app.js
+nodemon app.js
+nodemon app.js
+nodemon app.js
+nodemon app.js
+cd ~
+ls
+cd blogApp
+code .
+cd ~
+ls
+cd test-site
+cd test_site
+ls
+cd iNNTUition-NTU-DidiBunnies-2.0-
+nodemon app.js
+nodemon app.js
+db
+mongo
+mongod
+brew services start mongodb-community@5.0
+mongo
+nodemon app.js
+nodemon app.js
+git add .
+git status
+git commit -m "day 1 final"
+git config --global user.name "kester"
+git commit -m "day 1 final"
+git config --global user.email "you@domain.com"
+git commit -m "day 1 final"
+git status
+git push
+git push
+git status
+git branch -r
+git branch -r
+git branch -r
+git branch origin/main
+git branch -r
+git push 
+cd ~
+git status
+ls
+mkdir ntu-hackerthon
+cd ntu-hackerthon
+ls
+git init
+git add .
+git commit -m "first commit"
+git status
+git log
+git remote add origin '/Users/kester/test_site/iNNTUition-NTU-DidiBunnies-2.0-/app.js' '/Users/kester/test_site/iNNTUition-NTU-DidiBunnies-2.0-/html templates' '/Users/kester/test_site/iNNTUition-NTU-DidiBunnies-2.0-/node_modules' '/Users/kester/test_site/iNNTUition-NTU-DidiBunnies-2.0-/package-lock.json' '/Users/kester/test_site/iNNTUition-NTU-DidiBunnies-2.0-/package.json' '/Users/kester/test_site/iNNTUition-NTU-DidiBunnies-2.0-/public' '/Users/kester/test_site/iNNTUition-NTU-DidiBunnies-2.0-/views'
+git status
+git push -u origin master
+git status
+git log
+git remote add origin '/Users/kester/test_site/iNNTUition-NTU-DidiBunnies-2.0-/app.js' '/Users/kester/test_site/iNNTUition-NTU-DidiBunnies-2.0-/html templates' '/Users/kester/test_site/iNNTUition-NTU-DidiBunnies-2.0-/node_modules' '/Users/kester/test_site/iNNTUition-NTU-DidiBunnies-2.0-/package-lock.json' '/Users/kester/test_site/iNNTUition-NTU-DidiBunnies-2.0-/package.json' '/Users/kester/test_site/iNNTUition-NTU-DidiBunnies-2.0-/public' '/Users/kester/test_site/iNNTUition-NTU-DidiBunnies-2.0-/views'
+git push -u origin master
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/KesterTan/The-Daily-Bugle.git
+git status
+git branch -M main
+git push -u origin main
+wget -O ~/vsls-reqs https://aka.ms/vsls-linux-prereq-script && chmod +x ~/vsls-reqs && ~/vsls-reqs
+wget –V

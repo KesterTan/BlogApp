@@ -1,0 +1,514 @@
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+cd MediaBot
+npm init -y
+npm i telegraf@3.32
+npm i telegraf@3.33
+node bot.js
+node bot.js
+npm i nodemon
+nodemon bot.js
+npm i nodemon
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+cd MediaBot
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+cd ..
+mkdir APIbot
+cd APIbot
+npm init -y
+npm i telegraf@3.33
+npm i axios
+npm i axios
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+cd ..
+mkdir FactsBot
+npm init -y
+cd FactsBot
+npm init -y
+npm i telegraf@3.33
+npm i axios
+cd ..
+cd APIbot
+node bot.js
+cd ..
+cd FactsBot
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+cd ..
+mkdir CyptoBot
+cd CryptoBot
+delete CyptoBot
+rm -r CyptoBot
+mkdir CryptoBot
+npm init -y
+cd CryptoBot
+npm init -y
+npm i telegraf@3.33
+npm i axios
+npm i telegraf@3.38.0
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+
+
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+cd ..
+mkdir ChannelBot
+npm init -y
+cd ChannelBot
+npm init -y
+npm i telegraf 3.38.0
+npm i telegraf
+npm i telegraf
+node bot.js
+node bot.js
+npm i telegraf@3.4.1
+npm init -y
+npm i telegraf@3.4.1
+npm i telegraf@3.34.1
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+npm i node-fetch
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+cd ..
+mkdir SearchBot
+cd SearchBot
+npm init -y
+npm i telegraf@3.34.1 axios
+npm i telegraf@3.38.0
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+node bot.js
+npm i dotenv
+node bot.js
+node bot.js
+node bot.js
+cd ..
+node bot.js
+node index.js
+cd SearchBot
+node index.js
+mkdir WordBot
+npm init -y
+cd WordBot
+npm init -y
+npm i telegraf
+npm i axios
+cd /Users/kester/Desktop/Telegram\ Bot/MyFirstBot 
+npm init -y
+npm i telegraf@3.32
+node bot.js
+node bot.js
+npm i telegraf@3.32
+node bot.js
+node bot.js
+node bot.js
+cd /Users/kester/Desktop/Telegram\ Bot/myfirstbot 
+npm init -y
+npm i telegraf@3.32
+cd /Users/kester/Desktop/Telegram\ Bot/EchoBot 
+npm init -y
+npm i telegraf@3.32
+npm i -g nodemon
+npm i -g nodemon
+npm -i nodemon
+npm i nodemon
+nodemon bot.js
+nodemon bot.js
+cd ..
+npm init i -g nodemon
+npm i -g nodemon
+git --version
+node --version
+npm --version
+echo $PATH
+npm install -g browser sync
+sudo npm install -g browser-sync
+browser-sync --version
+ls
+mkdir test_site
+cd test_site
+browser-sync start --server --directory --files "*"
+ls
+cd PersonalWebsite
+ls
+ls
+browser -sync start --server --directory --files "**/*"
+browser-sync start --server --directory --files "**/*"
+git add
+git status
+git clone https://github.com/KesterTan/kester.git
+cd ..
+ls
+git clone https://github.com/KesterTan/kester.git
+ls
+cd kester
+;s
+ls
+ls
+git add
+git add .
+git status
+git commit  -m "First commit"
+git status
+git push
+git status
+cd ..
+ls
+cd PersonalWebsite
+browser-sync start --server --directory --files "**/*"
+cd ..
+cd kester
+git add .
+git status
+git commit -m 'added target blank'
+git status
+git push
+git push
+git pull
+git clone https://github.com/KesterTan/kester.git
+git add .
+git status
+git add .
+git status
+git commit
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+cd ..
+cd Desktop
+cd mystuff
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+python lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/Desktop/mystuff/lol.py
+pip show pandas
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+python --version
+pip3 --version
+cd ..
+pip3 install --upgrade pip
+pip3 install pandas
+ls
+cd sql-liqnft
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+pip3 install pandas
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+import pandas
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/kester/sql-liqnft/sql.py
+python3 -m venv env
+source env/bin/activate python3 -m pip install pandas
+python3 -m pip install numpy
+pip install --upgrade pip
+python3 -m pip install pandas
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+pip install numpy
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+data
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+/Users/kester/sql-liqnft/env/bin/python /Users/kester/sql-liqnft/sql.py
+python3 sql.py
+source /Users/kester/sql-liqnft/env/bin/activate
+source /Users/kester/sql-liqnft/env/bin/activate
+source /Users/kester/sql-liqnft/env/bin/activate
+npm install mathjs
+ls
+cd Downloads
+ls
+cd chromedriver
+cd ..
+ls
+mkdir sql-liqnft
+cd sql-liqnft
+cd..
+cd ..
+cd Downloads
+cd /Users/kester/Downloads/Simon\ Game\ Challenge\ Starting\ Files 
+ls
+browser-sync start --server --directory --files "**/*"

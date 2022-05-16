@@ -1,0 +1,27 @@
+cd /Users/kester/Downloads/Simon\ Game\ Challenge\ Starting\ Files 
+browser-sync start --server --directory --files "**/*"
+cd ..
+cd ..
+cd kester
+ls
+cd ..
+cd users
+cd /Users/kester/Simon\ Game 
+cd ..
+ls
+git clone "https://github.com/KesterTan/Simon-Game.git"
+cd Simon-Game
+ls
+git add
+git add .
+git status
+git push
+git status
+git add
+git push
+git show-ref
+git push origin HEAD:master
+git commit -m "initial commit"
+git status
+git push origin master
+git status
